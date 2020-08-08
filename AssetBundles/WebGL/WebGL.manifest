@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4043519860
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: objetos
+      Dependencies: {}
+    Info_1:
+      Name: personaje
+      Dependencies: {}
